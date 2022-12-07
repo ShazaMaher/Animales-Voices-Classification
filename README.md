@@ -1,2 +1,3 @@
 # Animales Voices Classification
-Python, Numpy, Pandas, 
+Python, Numpy, Pandas,scipy, matplotlib
+tensorflow, sklearn
