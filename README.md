@@ -1,3 +1,3 @@
-# Animales Voices Classification
+# Gender Voices Classification
 Python, Numpy, Pandas,scipy, matplotlib
 tensorflow, sklearn
